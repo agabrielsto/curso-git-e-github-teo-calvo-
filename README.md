@@ -10,11 +10,13 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e vscode.
 
 
 
-confira tudo no yt.....itsss freee
+confira tudo no yt.....itsss freee, segue o link -----
+
+(link aqui)
 
 
 
-\## Fluxo de trabalho Git local
+\# Fluxo de trabalho Git local
 
 
 
